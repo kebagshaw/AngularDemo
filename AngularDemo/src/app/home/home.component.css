@@ -14,19 +14,16 @@ h1{
     position: absolute;
 }
 .column-left{
-    height: 100%;
     position: absolute;
     width: 15%;
     float: left;
 }
 .column-right{
-    height: 100%;
     position: absolute;
     width: 15%;
     float: right;
 }
 .column-middle{
-    height: 100%;
     position: absolute;
     width: 70%;
 }
