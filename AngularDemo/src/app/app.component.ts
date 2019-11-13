@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   menuClass = 'active bg-info';
-  title = 'AngularDemo';
+  title = 'ToDo';
 }
